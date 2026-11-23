@@ -66,7 +66,7 @@
   <g transform="translate(48 250)">
     <text class="m l l1" y="0"><tspan fill="#C6FF00">&gt;</tspan> init asaf.exe --mode=overdrive</text>
     <g class="l l2"><text class="m" y="24"><tspan fill="#C6FF00">&gt;</tspan> loading react · typescript · node · postgres · python · c/c++ ........</text><text class="m" x="780" y="24" fill="#C6FF00" style="fill:#C6FF00">[ OK ]</text></g>
-    <g class="l l3"><text class="m" y="48"><tspan fill="#C6FF00">&gt;</tspan> linking design.dll (IDF build) · spawning ai agents ...................</text><text class="m" x="780" y="48" style="fill:#C6FF00">[ OK ]</text></g>
+    <g class="l l3"><text class="m" y="48"><tspan fill="#C6FF00">&gt;</tspan> spawning ai agents · resolving merge conflicts (team size: 1) .........</text><text class="m" x="780" y="48" style="fill:#C6FF00">[ OK ]</text></g>
     <g class="l l4"><text class="m" y="72"><tspan fill="#C6FF00">&gt;</tspan> sanity check .........................................................</text><text class="m" x="780" y="72" style="fill:#FF2E88">[FAIL]</text></g>
     <text class="m l l5" y="96"><tspan fill="#C6FF00">&gt;</tspan> continuing anyway<tspan class="cur" fill="#C6FF00">█</tspan></text>
   </g>

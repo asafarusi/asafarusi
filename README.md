@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>AI Software Engineer @ Dig AI</b>, and the only engineer there.<br/>
-  Ex-IDF graphic designer who started making interfaces think instead of just look good.
+  I build products end to end: UI, API, database, and the AI on top. Idea to prod, same day.
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 player:     Asaf Arusi
 class:      AI Software Engineer
 guild:      Dig AI                   # party size: 1. frontend, backend, infra, AI. all of it.
-origin:     IDF graphic designer
 training:   BSc Computer Science · HIT
+specialty:  full stack + AI          # git blame is a very short conversation
 base:       Giv'at Shmuel, IL
 
 stats:
   code:     ██████████████████░░  92
-  design:   █████████████████░░░  88
+  debug:    ███████████████████░  97   # reads stack traces recreationally
   ship:     ███████████████████░  95
   chaos:    ████████████████████ 100   # controlled. mostly.
 
