@@ -10,7 +10,7 @@
 
 I build products end to end: the interface you touch, the API behind it, the data underneath, and the AI that ties it all together.
 
-Right now I'm the only engineer at Dig AI, which makes me the frontend team, the backend team, DevOps and on-call.
+Right now I'm building at Dig AI, working across the whole product: the interface, the backend, the infrastructure and the AI features that run through it.
 
 **Stack** &nbsp; TypeScript · React · Node.js · PostgreSQL · Python · C · C++ · Java · AWS · GCP
 
